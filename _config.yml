@@ -21,7 +21,7 @@ repository               : "lzy2275/lzy2275.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhouyou Lai"
   pronouns         : # example: "he/him"  
   bio              : "My name is Lai Zhouyou. Currently studying Software Engineering at the School of Software Engineering, Sichuan University, I am expected to graduate 2024."
