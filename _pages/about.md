@@ -12,5 +12,5 @@ redirect_from:
 - In the field of data science, I am also passionate about combining technology with art. My team and I once worked on a project on tea data visualization - "[灵芽之旅(TeaJourney)](https://lzy2275.github.io/teajourney/dist/)". This is a webpage showcasing the ecological journey of Chinese tea.
 - My research interests are computer vision (CV) and data science (DS).
 - I am currently applying for an internship opportunity. I enjoy full stack development and am more focused on front-end development.
-- To learn more about me, you can download my resume here: English version(To be completed) or [Chinese version](/files/CV_ch.pdf).
+- To learn more about me, you can download my resume here: [English version](/files/CV_en.pdf) or [Chinese version](/files/CV_ch.pdf).
 
