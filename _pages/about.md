@@ -32,6 +32,51 @@ My interests include **LLM inference optimization, KV cache management, and hete
 - **GPA: 3.88 / 4.00**; ranked **8 / 210 (top 4%)**.
 - Selected coursework: Computer Organization and Architecture (97), Database Systems and Information Management (96), Calculus I-1 (96), Introduction to Software Engineering (95), Discrete Mathematics (94), Data Structures and Algorithms (94), Probability and Statistics (92), and Computer Networks (91).
 
+## Publications
+{: #publications }
+
+<div class="publication" markdown="1">
+<a class="publication__thumbnail" href="{{ '/images/publish/PACG-Figure-2.png' | relative_url }}">
+  <img src="{{ '/images/publish/PACG-Figure-2.png' | relative_url }}" alt="PACG framework: rollout and claim routing, counterfactual persistence, and credit gating" width="964" height="543" loading="lazy">
+</a>
+
+<div class="publication__details" markdown="1">
+
+### Visual sensitivity is not claim retractability: persistence-aware credit assignment for multimodal reinforcement learning
+
+Zhongan Bi, Kepeng Lin, Xuanang Gao, Yuhan Sun, and Lianrun Zhang
+
+**Submitted to ICLR 2027** | Preprint, 2026
+
+[arXiv:2609.36572](https://arxiv.org/abs/2609.36572) | [PDF]({{ '/files/12312_Visual_Sensitivity_Is_No.pdf' | relative_url }})
+
+Persistence-Aware Credit Gating (PACG) addresses the gap between visual sensitivity and claim retractability in multimodal reinforcement learning. A counterfactual diagnostic identifies visual claims that persist despite changes to the image; PACG then reduces positive training credit for unusually persistent claims without requiring supported/unsupported labels or adding inference cost. Experiments show improved benchmark accuracy and more retractable unsupported claims.
+
+</div>
+</div>
+
+<div class="publication" markdown="1">
+<a class="publication__thumbnail" href="{{ '/images/publish/CMIB-Figure1-1.png' | relative_url }}">
+  <img src="{{ '/images/publish/CMIB-Figure1-1.png' | relative_url }}" alt="CMIB framework for histology and genomic feature extraction, multimodal aggregation, and information bottleneck" width="1430" height="434" loading="lazy">
+</a>
+
+<div class="publication__details" markdown="1">
+
+### CMIB: A Cross Modal Interaction with Information Bottleneck Framework for Multimodal Survival Analysis
+
+**Zhou Lai**, Lifan Long, et al. | **First author**
+
+**Venue:** 2024 IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM)
+
+**Published:** August 8, 2024
+
+[DOI: 10.1109/CIS-RAM61939.2024.10673062](https://doi.org/10.1109/CIS-RAM61939.2024.10673062) | [IEEE Xplore](https://ieeexplore.ieee.org/document/10673062) | Corpus ID: 272724858
+
+CMIB integrates histology images and genomic data for multimodal survival analysis. Private and common feature extraction blocks (PFEB and CFEB) separate modality-specific and shared information, while co-attention models their interactions. A multimodal information bottleneck (MIB) filters redundancy and noise from the fused representation. Experiments on three public TCGA datasets showed improved performance over the state-of-the-art methods evaluated in the paper.
+
+</div>
+</div>
+
 ## Projects
 {: #projects }
 
