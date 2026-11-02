@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "赖周友"
+title                    : "Zhouyou Lai"
 title_separator          : "-"
-name                     : &name "赖周友"
-description              : &description "赖周友，上海交通大学电子信息硕士研究生，关注大模型推理优化、KV Cache 与异构计算。"
+name                     : &name "Zhouyou Lai"
+description              : &description "Zhouyou Lai, a master's student at Shanghai Jiao Tong University interested in LLM inference optimization, KV cache management, and heterogeneous computing."
 url                      : "https://lzy2275.github.io"
 baseurl                  : ""
 repository               : "LZY2275/lzy2275.github.io"
@@ -23,11 +23,11 @@ repository               : "LZY2275/lzy2275.github.io"
 author:
   # Biographic information
   avatar           : "https://github.com/LZY2275.png"
-  name             : "赖周友"
+  name             : "Zhouyou Lai"
   pronouns         : # example: "she/her"  
-  bio              : "电子信息硕士研究生 · 大模型推理优化"
-  location         : "中国 · 上海"
-  employer         : "上海交通大学"
+  bio              : "Master's student in Electronic Information | LLM inference optimization"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "lzy_2275@sjtu.edu.cn"
 
